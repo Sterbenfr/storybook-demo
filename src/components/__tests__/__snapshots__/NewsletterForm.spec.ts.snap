@@ -1,0 +1,16 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`NewsletterForm.vue > matches snapshot 1`] = `
+"<form>
+  <div data-v-901038f8="" class="input-wrapper">
+    <div data-v-901038f8="" class="custom-text-field"><input value="">
+      <!--v-if-->
+    </div>
+  </div>
+  <div data-v-901038f8="" class="input-wrapper">
+    <div data-v-901038f8="" class="custom-text-field"><input value="">
+      <!--v-if-->
+    </div>
+  </div><button data-v-af806622="" type="submit"><span data-v-af806622="">Submit</span></button>
+</form>"
+`;
